@@ -3,3 +3,4 @@ Log Action: my-tweets
 Log Action: spotify-this-song
 Log Action: do-what-it-says
 Log Action: movie-this
+Log Action: do-what-it-says
