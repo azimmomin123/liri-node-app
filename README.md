@@ -9,7 +9,7 @@ In this app, I made LIRI. LIRI is like iPhone's SIRI. However, while SIRI is a S
 	* [Request](https://www.npmjs.com/package/request)
 	* [OMDB API](http://www.omdbapi.com).
 
-#To run the app see the following instructions
+# To run the app see the following instructions
 
 1. You will need to create the following *keys.js* file to run this app sucessfully.
 Inside keys.js your file will look like this:
@@ -36,7 +36,7 @@ exports.twitterKeys = {
 		* Copy the access token key and secret displayed at the bottom of the next screen. Paste them where the `<input here>` tags are inside your keys.js file.
 
 
-###LIRI's Commands
+### LIRI's Commands
 
 	* `my-tweets`
 
